@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SAPInterview</string>
+
+    <string name="custom_button">Button</string>
+    <string name="name">name</string>
+    <string name="description">description</string>
+    <string name="image">image</string>
+
+
+</resources>
