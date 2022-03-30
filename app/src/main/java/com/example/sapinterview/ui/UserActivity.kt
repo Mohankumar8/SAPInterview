@@ -36,7 +36,6 @@ class UserActivity : AppCompatActivity() {
 
     private fun initRecyclerView() {
         adapter = UserAdapter(userList)
-        recyclerView.layoutManager = LinearLayoutManager(this)
         recyclerView.adapter = adapter
     }
 
